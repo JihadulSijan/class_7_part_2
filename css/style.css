@@ -1,0 +1,43 @@
+.header {
+    background-color:#ff3838;
+    min-height:80px;
+}
+
+.wrapper {
+    height:450px;
+    width:100%;
+    overflow:hidden;
+}
+
+.wrapper  .section_one {
+    background-color: #6d6905;
+    width:25%;
+    height: 100%;
+    float:left;
+}
+
+.wrapper .section2 {
+    width:25%;
+    min-height:100%;
+    background-color: #7d5fff;
+    float:left;
+}
+
+.wrapper .section3 {
+    width:25%;
+    min-height:100%;
+    background-color: #7efff5;
+    float:left;
+}
+
+.wrapper .section4 {
+    background-color: #ffb8b8;
+    width:25%;
+    min-height: 100%;
+    float:left;
+}
+
+.footer {
+    min-height:100px;
+    background-color: #3d3d3d;
+}
